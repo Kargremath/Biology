@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Alastor\bin\Debug\Alastor.exe.config
+C:\Users\Admin\source\repos\Alastor\bin\Debug\Alastor.exe
+C:\Users\Admin\source\repos\Alastor\bin\Debug\Alastor.pdb
+C:\Users\Admin\source\repos\Alastor\obj\Debug\Alastor.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Alastor\obj\Debug\Alastor.exe
+C:\Users\Admin\source\repos\Alastor\obj\Debug\Alastor.pdb
